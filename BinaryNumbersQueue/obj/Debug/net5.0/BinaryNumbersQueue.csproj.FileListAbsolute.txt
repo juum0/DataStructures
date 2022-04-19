@@ -1,0 +1,16 @@
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.exe
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.deps.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.runtimeconfig.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.runtimeconfig.dev.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\ref\BinaryNumbersQueue.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\bin\Debug\net5.0\BinaryNumbersQueue.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.csproj.AssemblyReference.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.AssemblyInfoInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.AssemblyInfo.cs
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.csproj.CoreCompileInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\ref\BinaryNumbersQueue.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab2\DataStructures_Core5\BinaryNumbersQueue\obj\Debug\net5.0\BinaryNumbersQueue.genruntimeconfig.cache
